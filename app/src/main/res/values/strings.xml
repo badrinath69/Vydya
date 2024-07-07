@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vydya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="badrinath">BADRINATH BALLI</string>
+    <string name="anjali">ANJALI TADICHERLA</string>
+    <string name="pavani">PAVANI</string>
+    <string name="karim">KARIM</string>
+    <string name="manikanta">MANIKANTA</string>
+    <string name="surekha">SUREKHA RANI</string>
+</resources>

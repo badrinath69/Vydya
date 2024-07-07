@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_info"
+        android:icon="@drawable/ic_info"
+        android:title="INFO"
+        ></item>
+    <item android:id="@+id/ic_health"
+        android:icon="@drawable/ic_health"
+        android:title="HEALTH ISSUES"
+        ></item>
+
+    <item android:id="@+id/ic_developer"
+        android:icon="@drawable/ic_developer"
+        android:title="DEVELOPERS"
+        ></item>
+
+</menu>

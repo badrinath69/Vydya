@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529650721559",
+    "project_id": "vydya-ca8a9",
+    "storage_bucket": "vydya-ca8a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529650721559:android:b0eccb9f725d44f1288d52",
+        "android_client_info": {
+          "package_name": "com.badriyadav.vydya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529650721559-78k325kvm8pn1qqtlcfhsidannn45ugg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.badriyadav.vydya",
+            "certificate_hash": "a1914c2067586dc72e5710f14756d2bf4a02a777"
+          }
+        },
+        {
+          "client_id": "529650721559-frqv4ghstbtnib6njn67lb3arkm4op9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwa3uiDeCufhC3Ywdc6bzwKAbgKXCGjpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529650721559-frqv4ghstbtnib6njn67lb3arkm4op9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

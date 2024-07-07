@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.DeveloperFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- TODO: Update blank fragment layout -->
+        <LinearLayout
+            android:weightSum="3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_weight="1"
+                android:weightSum="2"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:weightSum="4"
+                    android:layout_gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <include layout="@layout/dp_1"
+                        android:layout_weight="2"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        ></include>
+                    <TextView
+                        android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:gravity="center"
+                        android:text="@string/badrinath"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+                    <TextView
+                        android:textStyle="bold"
+                        android:layout_margin="8dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="21P31A1243"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:weightSum="4"
+                    android:layout_gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <include layout="@layout/dp_1"
+                        android:layout_weight="2"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        ></include>
+                    <TextView
+                        android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:gravity="center"
+                        android:text="@string/karim"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+                    <TextView
+                        android:textStyle="bold"
+                        android:layout_margin="8dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="21P31A1234"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:weightSum="4"
+                    android:layout_gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <include layout="@layout/dp_1"
+                        android:layout_weight="2"
+
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        ></include>
+                    <TextView
+                        android:layout_weight="1"
+
+                        android:gravity="center"
+                        android:text="@string/pavani"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+                    <TextView
+                        android:textStyle="bold"
+                        android:layout_margin="8dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="21P31A1234"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:weightSum="4"
+                    android:layout_gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <include layout="@layout/dp_1"
+                        android:layout_weight="2"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        ></include>
+                    <TextView
+                        android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:gravity="center"
+                        android:text="@string/surekha"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+                    <TextView
+                        android:textStyle="bold"
+                        android:layout_margin="8dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="21P31A1234"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:weightSum="4"
+                    android:layout_gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <include layout="@layout/dp_1"
+                        android:layout_weight="2"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        ></include>
+                    <TextView
+                        android:layout_weight="1"
+                        android:layout_margin="8dp"
+                        android:gravity="center"
+                        android:text="@string/manikanta"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+                    <TextView
+                        android:textStyle="bold"
+                        android:layout_margin="8dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="21P31A1234"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"></TextView>
+
+                </LinearLayout>
+                <LinearLayout
+                android:layout_weight="1"
+                android:weightSum="4"
+                android:layout_gravity="center"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <include layout="@layout/dp_1"
+                    android:layout_weight="2"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    ></include>
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_margin="8dp"
+                    android:gravity="center"
+                    android:text="@string/anjali"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"></TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_margin="8dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="21P31A1234"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"></TextView>
+
+            </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>
